@@ -2,8 +2,8 @@
 Welcome to visit my repository
 
 I use:
-![Claude Code](https://shields.io)
-![OpenAI Codex](https://shields.io)
+![OpenAI Codex](https://img.shields.io/badge/Codex-OpenAI-41ADFF?style=for-the-badge&logo=openai)
+![Claude Code](https://img.shields.io/badge/Claude%20Code-Anthropic-black?style=for-the-badge&logo=anthropic)
 
 A pure Vibe Coder,Trying to do something for the Agent...
 Currently looking for a job related to Vibe Coding or game editing.

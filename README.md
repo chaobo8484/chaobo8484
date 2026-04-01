@@ -1,4 +1,12 @@
-## Hi there 👋
+## Hi!There is 10^12byte👋
+Welcome to visit my repository
+
+I use:
+![Claude Code](https://shields.io)
+![OpenAI Codex](https://shields.io)
+
+A pure Vibe Coder,Trying to do something for the Agent...
+Currently looking for a job related to Vibe Coding or game editing.
 
 <!--
 **chaobo8484/chaobo8484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

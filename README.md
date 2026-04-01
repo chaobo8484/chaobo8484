@@ -4,6 +4,8 @@
 A pure Vibe Coder,Trying to do something for the Agent...
 Currently looking for a job related to Vibe Coding or game editing.
 
+OS:My new repository can help you analyze and improve your agent(e.g.:Claude Code,Codex... I am working hard to adapt to more agents.). I will continue to update it, and contributions are welcome.
+
 <!--
 **chaobo8484/chaobo8484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 

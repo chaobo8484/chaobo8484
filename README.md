@@ -1,7 +1,7 @@
 ## Hi! There is 10^12byte👋
 ### Welcome to visit my repository
 
-What I've pin is the repository I'm currently developing/contributing to.
+What I've pinned is the repository I'm currently developing/contributing to.
 
 A pure Vibe Coder\Contributor
 Currently looking for a job related to Vibe Coding/game editing/game scheme.

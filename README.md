@@ -1,10 +1,12 @@
-## Hi!There is 10^12byte👋
+## Hi! There is 10^12byte👋
 ### Welcome to visit my repository
 
-A pure Vibe Coder,Trying to do something for the Agent...
-Currently looking for a job related to Vibe Coding or game editing.
+What I've pin is the repository I'm currently developing/contributing to.
 
-OS:My new repository can help you analyze and improve your agent(e.g. Claude Code,Codex... I am working hard to adapt to more agents and IDEs.). I will continue to update it, and contributions are welcome.
+A pure Vibe Coder\Contributor
+Currently looking for a job related to Vibe Coding/game editing/game scheme.
+
+
 
 <!--
 **chaobo8484/chaobo8484** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

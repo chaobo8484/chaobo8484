@@ -1,6 +1,8 @@
 ## Hi! There is 10^12byte👋
 ### Welcome to visit my repository
 
+[<img align="right" width="50%" src="https://github-readme-stats-ouuan.vercel.app/api?username=chaobo8484&show_icons=true&theme=dark">](https://github-readme-stats-ouuan.vercel.app/api?username=heimanba&show_icons=true&theme=dark)
+
 What I've pinned is the repository I'm currently developing/contributing to.
 
 A pure Vibe Coder\Contributor

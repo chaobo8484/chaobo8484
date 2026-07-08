@@ -6,7 +6,7 @@
 What I've pinned is the repository I'm currently developing/contributing to.
 
 A pure Vibe Coder\Contributor
-Currently looking for a job related to Vibe Coding/game editing/game scheme.
+Now building something for Agents.
 
 
 
